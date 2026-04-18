@@ -1,1 +1,1 @@
-# Cleaned up code structure
+# Refactor step 1: added comment
