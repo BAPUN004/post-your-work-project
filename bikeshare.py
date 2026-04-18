@@ -1,1 +1,1 @@
-# Bikeshare data analysis script
+# Cleaned up code structure
