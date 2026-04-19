@@ -1,15 +1,16 @@
-# Bikeshare Project
+# Movie Picture Pipeline
 
 ## Overview
-This project analyzes bikeshare data from New York City.
+This project implements a CI/CD pipeline using GitHub Actions.
 
-## Files
-- bikeshare.py
-- README.md
+## Architecture
+- Frontend: React (TypeScript)
+- Backend: Flask (Python)
+- Deployment: Kubernetes (EKS)
 
-## Usage
-Run the script using:
-python bikeshare.py
+## CI/CD
+- CI: Lint, Test, Build
+- CD: Build Docker images, push to ECR, deploy to Kubernetes
 
-## Purpose
-This project demonstrates Git and GitHub workflows including branching, committing, and merging.
+
+
