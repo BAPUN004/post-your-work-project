@@ -28,7 +28,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-
+# This function loads and filters bikeshare data based on user input
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
